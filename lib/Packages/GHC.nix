@@ -70,6 +70,7 @@
             self.Glob
             self.gloss
             self.gtk
+            self.gtk2hsBuildtools
             self.haskellSrcExts
             self.HFuse
             self.hmatrix
